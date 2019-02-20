@@ -18,3 +18,10 @@ SDKROOT = /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/D
 INFOPLIST_FILE = $(SRCROOT)/executor/macos/Info.plist
 PRODUCT_NAME = MyApp
 APP_BUNDLE_ID = uk.co.bottledlogic.executor
+
+// CODE_SIGN_IDENTITY = Mac Developer
+// CODE_SIGN_STYLE = Automatic
+// DEVELOPMENT_TEAM = // <- Your Apple Developer account's team here
+
+CODE_SIGN_IDENTITY =
+CODE_SIGN_STYLE = Manual
