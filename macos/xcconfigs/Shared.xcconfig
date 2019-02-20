@@ -1,0 +1,19 @@
+//
+//  Shared.xcconfig
+//  executor
+//
+//  Created by jamie on 20/02/2019.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+// Can't seem to set SYMROOT in xcconfig, so have to defer to the Build Settings unfortunately.
+// SYMROOT="${SRCROOT}/${PROJECT}/${TARGETNAME}/build"
+// SYMROOT = $(SRCROOT)/executor/macos/build
+// SYMROOT = executor/macos/build
+
+SDKROOT = /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk
+
+INFOPLIST_FILE = $(SRCROOT)/executor/macos/Info.plist
+PRODUCT_NAME = MyApp
