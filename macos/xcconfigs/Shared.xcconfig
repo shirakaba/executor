@@ -17,3 +17,4 @@ SDKROOT = /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/D
 
 INFOPLIST_FILE = $(SRCROOT)/executor/macos/Info.plist
 PRODUCT_NAME = MyApp
+APP_BUNDLE_ID = uk.co.bottledlogic.executor
