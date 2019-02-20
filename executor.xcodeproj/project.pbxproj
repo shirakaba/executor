@@ -98,7 +98,7 @@
 			dependencies = (
 			);
 			name = macos;
-			productName = juliusapp;
+			productName = firstappattempt;
 			productReference = 7D4A65342218E23D00922138 /* MyApp.app */;
 			productType = "com.apple.product-type.application";
 		};

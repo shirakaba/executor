@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PATH_TO_EXECUTABLE</key>
+	<string>~/executable</string>
+	<key>RESOURCES_COLLOQUIAL_NAME</key>
+	<string>The Resources Directory</string>
+	<key>EXECUTABLE_COLLOQUIAL_NAME</key>
+	<string>The Executable</string>
+	<key>EXECUTABLE_FILENAME</key>
+	<string>executable</string>
+	<key>EXECUTABLE_EXTENSION</key>
+	<string></string>
+</dict>
+</plist>
