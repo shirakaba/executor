@@ -186,7 +186,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 7D316076221DDB0200D7CEF4 /* Shared.xcconfig */;
 			buildSettings = {
-				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
 				ONLY_ACTIVE_ARCH = "$(inherited)";
 				SDKROOT = "$(inherited)";
 				SYMROOT = "${SRCROOT}/${PROJECT}/Build";
@@ -252,7 +252,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				INFOPLIST_FILE = "$(SRCROOT)/executor/macos/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
-				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = "$(inherited)";
@@ -320,7 +320,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				INFOPLIST_FILE = "$(SRCROOT)/executor/macos/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
-				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = "$(inherited)";
@@ -338,7 +338,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 7D316076221DDB0200D7CEF4 /* Shared.xcconfig */;
 			buildSettings = {
-				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
 				ONLY_ACTIVE_ARCH = "$(inherited)";
 				SDKROOT = "$(inherited)";
 				SYMROOT = "${SRCROOT}/${PROJECT}/Build";
